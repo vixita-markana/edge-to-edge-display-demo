@@ -1,0 +1,1 @@
+export { AdvancedEdgeToEdge as default } from "../screens"

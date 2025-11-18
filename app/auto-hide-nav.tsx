@@ -1,0 +1,1 @@
+export { HandlingStatusbar as default } from "../screens";

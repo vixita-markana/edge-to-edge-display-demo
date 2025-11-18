@@ -1,0 +1,1 @@
+export { UsingSafeAreas as default } from "../screens"
